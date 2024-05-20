@@ -20,8 +20,9 @@
 
   <h1>Supere seus Limites!</h1>
   <p>Você é mais forte do que imagina. Acredite em si mesmo e vá além do que pensa ser possível. Cada desafio é uma oportunidade para crescer e alcançar seus objetivos. Mantenha o foco, a determinação e nunca desista dos seus sonhos!</p>
-</body>
-</html>
+
+
+
 Laila Hamorym
 
 
